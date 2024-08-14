@@ -5,9 +5,9 @@ import Footer from "./components/Footer";
 function App() {
   return (
     <>
-      <Header />
+      <Header title="My Website" />
       <Content />
-      <Footer />
+      <Footer year={2024} />
     </>
   );
 }
