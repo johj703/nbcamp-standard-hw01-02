@@ -1,2 +1,1 @@
-# nbcamp-standard-hw01-02
- 
+# standard_1st_homework number two
