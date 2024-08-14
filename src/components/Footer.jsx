@@ -1,9 +1,5 @@
-const Footer = () => {
-  return (
-    <footer>
-      <footer>© 2024 My Website</footer>
-    </footer>
-  );
+const Footer = ({ year }) => {
+  return <footer>© {year} My Website</footer>;
 };
 
 export default Footer;
